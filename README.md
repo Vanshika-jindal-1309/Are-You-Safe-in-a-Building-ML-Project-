@@ -2,11 +2,6 @@
 This repository contains the implementation of a machine learning project aimed at classifying building safety into five predefined classes. The project utilizes advanced techniques in data preprocessing, augmentation, and deep learning model fine-tuning to achieve accurate predictions.
 
 
-# Project 1: Are you in a safe building?
-
-This project focuses on developing an automated machine learning (ML) model to identify building types and materials from street view images. The primary goal is to enhance seismic risk assessment by quickly and accurately identifying structural deficiencies in buildings, which is crucial for earthquake preparedness.
-
-
 ## Table of Contents
 - [Model](#Models)
 - [Platform](#Platform)
